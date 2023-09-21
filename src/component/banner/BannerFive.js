@@ -13,7 +13,7 @@ const BannerFive = () => {
                             <h1 className="title">The largest real estate hub for home owners, 
                                 buyers &amp; agents</h1>
                             <div>
-                                <Link to={process.env.PUBLIC_URL + "/project-grid-one"} className="axil-btn btn-fill-white btn-large">View Showcase</Link>
+                                <Link to={process.env.PUBLIC_URL + "/services"} className="axil-btn btn-fill-white btn-large">Services</Link>
                             </div>
                         </div>
                     </div>

@@ -4,15 +4,15 @@ import FooterOne from '../common/footer/FooterOne';
 import HeaderOne from '../common/header/HeaderOne';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
-import SectionTitle from '../elements/section-title/SectionTitle';
-import ProjectPropOne from '../component/project/itemProp/ProjectPropOne';
+// import SectionTitle from '../elements/section-title/SectionTitle';
+// import ProjectPropOne from '../component/project/itemProp/ProjectPropOne';
 import { slugify } from '../utils';
 import ServiceData from "../data/service/ServiceMain.json";
 import ProjectData from "../data/project/ProjectData.json";
 import AboutTwo from '../component/about/AboutTwo';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
-import Tilty from 'react-tilty';
+// import Tilty from 'react-tilty';
 
 const allServiceData = ServiceData;
 const getProjectData = ProjectData;
